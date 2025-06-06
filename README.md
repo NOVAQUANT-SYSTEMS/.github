@@ -12,5 +12,5 @@
 
 Всю архитектуру, задачи, цели и команду можно найти здесь:
 
-🔗 [Notion](https://www.notion.so/Project-2050f5d61798808c8168fc91390a2f7a)
+🔗 [Wiki]([https://www.notion.so/Project-2050f5d61798808c8168fc91390a2f7a](https://wiki.yandex.ru/homepage/))
 
